@@ -1,0 +1,11 @@
+====================== RESTART: C:/python .py/even&odd.py ======================
+Enter an integer: 5
+Result: Odd Number
+
+====================== RESTART: C:/python .py/even&odd.py ======================
+Enter an integer: -4
+Result: Even Number
+
+====================== RESTART: C:/python .py/even&odd.py ======================
+Enter an integer: 15
+Result: Odd Number
